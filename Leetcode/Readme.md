@@ -11,6 +11,19 @@
 - [x] **[234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)**
 - [x] **[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)**
 - [x] **[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)**
+- [x] **[203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)**
+- [x] **[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)**
+- [x] **[237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)**
+- [x] **[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)**
+- [x] **[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)**
+- [x] **[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)**
+- [x] **[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)**
+- [x] **[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)**
+- [x] **[100. Same Tree](https://leetcode.com/problems/same-tree/description/)**
+- [x] **[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)**
+- [x] **[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)**
+- [x] **[]()**
+- [x] **[]()**
 - [x] **[]()**
 
 
