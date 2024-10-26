@@ -8,9 +8,9 @@
 - [x] **[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)**
 - [x] **[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)**
 - [x] **[160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)**
-- [x] **[]()**
-- [x] **[]()**
-- [x] **[]()**
+- [x] **[234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)**
+- [x] **[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)**
+- [x] **[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)**
 - [x] **[]()**
 
 
