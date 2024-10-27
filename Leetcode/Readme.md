@@ -30,10 +30,10 @@
 - [x] **[]()**
 - [x] **[]()**
 - [x] **[]()**
-- [x] **[]()**
-- [x] **[]()**
-- [x] **[]()**
-- [x] **[]()**
+- [x] **[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)**
+- [x] **[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)**
+- [x] **[136. Single Number](https://leetcode.com/problems/single-number/description/)**
+- [x] **[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)**
 - [x] **[]()**
 - [x] **[]()**
 - [x] **[]()**
