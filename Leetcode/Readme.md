@@ -17,11 +17,24 @@
 - [x] **[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)**
 - [x] **[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)**
 - [x] **[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)**
+- [x] **[222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/)**
 - [x] **[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)**
 - [x] **[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)**
 - [x] **[100. Same Tree](https://leetcode.com/problems/same-tree/description/)**
 - [x] **[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)**
 - [x] **[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)**
+- [x] **[617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)**
+- [x] **[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)**
+- [x] **[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)**
+- [x] **[112. Path Sum](https://leetcode.com/problems/path-sum/description/)**
+- [x] **[]()**
+- [x] **[]()**
+- [x] **[]()**
+- [x] **[]()**
+- [x] **[]()**
+- [x] **[]()**
+- [x] **[]()**
+- [x] **[]()**
 - [x] **[]()**
 - [x] **[]()**
 - [x] **[]()**
