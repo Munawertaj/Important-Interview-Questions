@@ -37,6 +37,11 @@
 - [x] **[169. Majority Element](https://leetcode.com/problems/majority-element/description/)**
 - [x] **[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)**
 - [x] **[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)**
+- [x] **[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)**
+- [x] **[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)**
+- [x] **[338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)**
+- [x] **[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)**
+- [x] **[]()**
 - [x] **[]()**
 
 
