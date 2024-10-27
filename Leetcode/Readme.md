@@ -41,7 +41,7 @@
 - [x] **[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)**
 - [x] **[338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)**
 - [x] **[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)**
-- [x] **[]()**
+- [x] **[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)**
 - [x] **[]()**
 
 
