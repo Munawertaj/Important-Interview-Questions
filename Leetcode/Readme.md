@@ -34,9 +34,9 @@
 - [x] **[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)**
 - [x] **[136. Single Number](https://leetcode.com/problems/single-number/description/)**
 - [x] **[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)**
-- [x] **[]()**
-- [x] **[]()**
-- [x] **[]()**
+- [x] **[169. Majority Element](https://leetcode.com/problems/majority-element/description/)**
+- [x] **[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)**
+- [x] **[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)**
 - [x] **[]()**
 
 
