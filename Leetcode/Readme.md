@@ -44,7 +44,7 @@
 - [x] **[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)**
 - [x] **[268. Missing Number](https://leetcode.com/problems/missing-number/description/)**
 - [x] **[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)**
-- [x] **[]()**
+- [x] **[202. Happy Number](https://leetcode.com/problems/happy-number/description/)**
 - [x] **[]()**
 - [x] **[]()**
 - [x] **[]()**
