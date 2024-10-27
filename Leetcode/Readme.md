@@ -42,6 +42,18 @@
 - [x] **[338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)**
 - [x] **[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)**
 - [x] **[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)**
+- [x] **[268. Missing Number](https://leetcode.com/problems/missing-number/description/)**
+- [x] **[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)**
+- [x] **[]()**
+- [x] **[]()**
+- [x] **[]()**
+- [x] **[]()**
+- [x] **[]()**
+- [x] **[]()**
+- [x] **[]()**
+- [x] **[]()**
+- [x] **[]()**
+- [x] **[]()**
 - [x] **[]()**
 
 
