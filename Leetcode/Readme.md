@@ -50,7 +50,7 @@
 - [x] **[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)**
 - [x] **[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)**
 - [x] **[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)**
-- [x] **[]()**
+- [x] **[278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)**
 - [x] **[]()**
 - [x] **[]()**
 - [x] **[]()**
