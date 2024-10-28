@@ -10,12 +10,9 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* dummyNode = new ListNode(-1);
+    ListNode* mergeTwoLists(ListNode* ptr1, ListNode* ptr2) {
+        ListNode* dummyNode = new ListNode();
         ListNode* ptr = dummyNode;
-
-        ListNode* ptr1 = list1;
-        ListNode* ptr2 = list2;
 
         while(ptr1 != NULL && ptr2 != NULL)
         {
@@ -33,19 +30,7 @@ public:
             ptr = ptr->next;
         }
 
-        while(ptr1 != NULL)
-        {
-            ptr->next = ptr1;
-            ptr = ptr->next;
-            ptr1 = ptr1->next;
-        }
-
-        while(ptr2 != NULL)
-        {
-            ptr->next = ptr2;
-            ptr = ptr->next;
-            ptr2 = ptr2->next;
-        }
+        ptr->next = ptr1 ? ptr1 : ptr2;
 
         return dummyNode->next;
     }
