@@ -27,8 +27,8 @@
 - [x] **[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)**
 - [x] **[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)**
 - [x] **[112. Path Sum](https://leetcode.com/problems/path-sum/description/)**
-- [x] **[]()**
-- [x] **[]()**
+- [x] **[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)**
+- [x] **[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)**
 - [x] **[]()**
 - [x] **[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)**
 - [x] **[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)**
@@ -53,7 +53,7 @@
 - [x] **[278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)**
 - [x] **[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)**
 - [x] **[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)**
-- [x] **[]()**
+- [x] **[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)**
 - [x] **[]()**
 
 
