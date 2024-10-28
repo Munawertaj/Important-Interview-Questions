@@ -13,8 +13,8 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if (root == NULL)
-            return NULL;
+        if(root == NULL || p == root || q == root)
+            return root;
         
         // If both p and q are smaller than root, LCA is in the left subtree
         if (p->val < root->val && q->val < root->val)
