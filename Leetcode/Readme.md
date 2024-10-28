@@ -47,8 +47,8 @@
 - [x] **[202. Happy Number](https://leetcode.com/problems/happy-number/description/)**
 - [x] **[67. Add Binary](https://leetcode.com/problems/add-binary/description/)**
 - [x] **[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)**
-- [x] **[]()**
-- [x] **[]()**
+- [x] **[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)**
+- [x] **[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)**
 - [x] **[]()**
 - [x] **[]()**
 - [x] **[]()**
